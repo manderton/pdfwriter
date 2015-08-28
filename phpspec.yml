@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Pdfwriter
+        psr4_prefix: Pdfwriter
+        src_path: app
